@@ -1,3 +1,4 @@
+<img width="1920" height="3528" alt="screencapture-localhost-5173-2026-06-08-11_54_45" src="https://github.com/user-attachments/assets/dc98afb0-331b-454d-a572-efd05ee1191f" />
 # 👟 Shoes Hub – Branded Shoes E-Commerce Website
 
 ## 📖 Introduction
