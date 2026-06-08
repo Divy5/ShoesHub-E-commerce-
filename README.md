@@ -74,6 +74,9 @@ The primary goal of Shoes Hub is to demonstrate modern frontend development skil
 
 ---
 
+## Demo
+* Link - https://shoeshubb.netlify.app/
+
 ### Developed by
 
 **Divy Khandelwal**
